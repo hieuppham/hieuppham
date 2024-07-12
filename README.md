@@ -1,1 +1,1 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/129NVCr1UfsGTS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/weekend-days-129NVCr1UfsGTS">via GIPHY</a></p>
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M2Zmw4OXNtcXlweHU3Z2NmeTFzMHZ5bjFkNG9wbGZ5NnJoZWVydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nURzWHsOTpDDa/giphy.gif)
